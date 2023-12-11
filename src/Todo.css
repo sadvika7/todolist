@@ -1,0 +1,70 @@
+body {
+  margin: 10px;
+  margin-right: 190px;
+  margin-left: 190px;
+  background-color: rgb(252, 235, 238);
+}
+
+.container {
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+div {
+  padding: 10px;
+}
+h1 {
+  color: darkcyan;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 8px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-right: 5px;
+}
+.btn {
+  position: sticky;
+  left: 870px;
+}
+button {
+  background-color: darkmagenta;
+}
+.btn1 {
+  position: relative;
+  left: 220px;
+}
+.btnss {
+  border-color: orange;
+  background-color: orange;
+}
+.delete {
+  background-color: red;
+}
+
+.lastbtn {
+  width: 100px;
+  background-color: green;
+}
+.maincontetn {
+  background-color: rgb(240, 219, 226);
+}
+span {
+  cursor: pointer;
+}
